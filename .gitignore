@@ -1,0 +1,13 @@
+# Binaries
+bin/
+/pipeline
+/pipeline-priority
+*.exe
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Course handout (not mine to redistribute)
+*.pdf
